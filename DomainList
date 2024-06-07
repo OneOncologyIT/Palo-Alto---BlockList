@@ -547,4 +547,5 @@ bofa.com-onlinebanking.com
 *.bofa.com-onlinebanking.com
 rekkam-boudnib.com
 *.rekkam-boudnib.com
-api.telegram.org
+telegram.org
+*.telegram.org
