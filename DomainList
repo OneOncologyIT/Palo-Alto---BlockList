@@ -2147,7 +2147,6 @@ sigint.fun
 decided.run
 bobient.com
 *.fun
-*.run
 *.xyz
 *.cn
 *.top
@@ -2156,7 +2155,6 @@ bobient.com
 *.sbs
 *.li
 *.cfs
-*.run
 *.pub
 *.so
 *.icu
